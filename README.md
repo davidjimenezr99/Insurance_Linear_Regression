@@ -5,7 +5,7 @@ Este proyecto realiza un análisis exploratorio y predictivo utilizando el **dat
 ## Archivos en el Repositorio
 
 - **insurance.csv**: Archivo de datos con información de clientes y sus cargos médicos.
-- **modelo_regresion_lineal.pkl**: Archivo que contiene el modelo de regresión lineal entrenado.
+- **linear_regression_model.pkl**: Archivo que contiene el modelo de regresión lineal entrenado.
 - **Insurance_linear_regression.ipynb**: Jupyter Notebook que contiene el análisis exploratorio, pruebas de multicolinealidad, heterocedasticidad, normalidad e independencia de los residuos, así como la creación y evaluación de los modelos de **regresión lineal**, **Ridge** y **Lasso**.
 
 ## Requisitos
